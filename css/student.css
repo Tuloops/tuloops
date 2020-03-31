@@ -712,7 +712,7 @@ footer{
 		left: 50%;
 		bottom: 80px;
 		backface-visibility: hidden;
-	 	padding-bottom: 20px;
+	 	margin-bottom: 20px;
 	 }
 		.c-scroll-icon-line-mask {
 		  position: relative;
