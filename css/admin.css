@@ -707,7 +707,9 @@ footer{
 		position: absolute;
 		left: 50%;
 		bottom: 80px;
-		backface-visibility: hidden; }
+		backface-visibility: hidden; 
+	 	margin-bottom: 20px;
+	 }
 		.c-scroll-icon-line-mask {
 		  position: relative;
 		  overflow: hidden;
