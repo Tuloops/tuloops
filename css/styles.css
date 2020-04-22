@@ -860,7 +860,7 @@ input[type='checkbox'] {
 	margin-right: auto;
 	margin-bottom: 0.25rem;
 	margin-left: auto;
-	border-radius: 50%;
+	border-radius: 10px;
 }
 
 .slider-1 .card-body {
@@ -1396,6 +1396,8 @@ input[type='checkbox'] {
 	font-size: 1rem;
 	line-height: 1.5rem;
 	text-align: center;
+	text-decoration: none;
+	color: black;
 }
 
 .form .list-unstyled .fas,
@@ -1408,6 +1410,17 @@ input[type='checkbox'] {
 .form .list-unstyled .fa-phone {
 	vertical-align: 3%;
 }
+
+.blue{
+	text-decoration: none;
+	color: black;
+}
+
+.blue:hover{
+	color: #00c9db;
+	text-decoration: none;
+}
+
 
 
 /**********************/
